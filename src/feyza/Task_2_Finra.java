@@ -5,7 +5,7 @@ QUESTION 2- Write a function which prints out the numbers from 1 to 30 but for n
  for numbers which are a multiple of both 3 and 5, print "FINRA" instead of the number.
 */
 
-public class Finra {
+public class Task_2_Finra {
     public static void main(String[] args) {
         int i = 1;
 
