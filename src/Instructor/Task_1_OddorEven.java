@@ -11,7 +11,7 @@ package Instructor;
 
 
 
-public class Task_1 {
+public class Task_1_OddorEven {
 
 
 
