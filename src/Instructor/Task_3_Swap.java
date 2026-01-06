@@ -1,4 +1,4 @@
-package instructor;
+package Instructor;
 
 /*
 Numbers – Swap Numbers
