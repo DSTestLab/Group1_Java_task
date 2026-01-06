@@ -1,6 +1,5 @@
 package Instructor;
-
- /*
+/*
       QUESTION 1 -Numbers  ---Odd & Even
        Write a method which can identify if a given number odd or even
 
@@ -8,13 +7,7 @@ package Instructor;
        identify(5) -->"Odd"
        identify (6) --> "Even"
       */
-
-
-
 public class Task_1_OddorEven {
-
-
-
 
 
     public static String identify(int num) {
@@ -29,9 +22,5 @@ public class Task_1_OddorEven {
 
         System.out.println(identify(5));
 
-
     }
-
-
-
 }
